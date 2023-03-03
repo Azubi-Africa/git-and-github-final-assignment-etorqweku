@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Percy Skincare expense and profit analysis            |  A python project             | https://github.com/etorqwekuPercy-Skincare-expense-and-profit-analysis.git       |
+| 2 |  store-products and sales calculator             |  A python project            | https://github.com/etorqweku/store-products-and-sales-calculator.git       |
+| 3 |  Ceasar Cipher Encryption            |   A python project            | https://github.com/etorqweku/Ceasar-s-Cipher-Enccryption.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
